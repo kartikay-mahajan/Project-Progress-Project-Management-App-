@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865170469951",
+    "project_id": "project-progress-dff24",
+    "storage_bucket": "project-progress-dff24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865170469951:android:a714d3686459d720ae748a",
+        "android_client_info": {
+          "package_name": "com.kartikaymahajan.projectprogress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865170469951-nq10js52luqm4iceqa2l5vafvpr6o131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZ6QOfbHj_CP7tRKsbnJ2L4LGhkB5zYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865170469951-nq10js52luqm4iceqa2l5vafvpr6o131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
